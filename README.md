@@ -1,5 +1,6 @@
 # Practice-
-My first project <!DOCTYPE html>
+My first project
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
